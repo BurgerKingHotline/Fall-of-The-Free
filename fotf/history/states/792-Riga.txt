@@ -1,0 +1,30 @@
+state={
+	id=792
+	name="STATE_792"
+
+	history={
+		owner = BAU
+		victory_points = {
+			9340 20 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			air_base = 3
+			9340 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = BAU
+
+	}
+
+	provinces={
+		9340 
+	}
+	manpower=511612
+	buildings_max_level_factor=1.000
+	state_category=city
+}

@@ -500,4 +500,8 @@ IND = {
 	color = rgb { 47 89 138 }
 	color_ui = rgb { 47 89 138 }
 }
+BAU = {
+	color = rgb { 131 67 68 }
+	color_ui = rgb { 168 86 87 }
+}
 
