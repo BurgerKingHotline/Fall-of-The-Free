@@ -2219,4 +2219,17 @@
  RHE_communism:0 "Rhenish Commune"
  RHE_communism_DEF:0 "the Rhenish Commune"
  RHE_communism_ADJ:0 "Rhenish"
+
+ IND_neutrality:0 "United Provinces of Indochina"
+ IND_neutrality_DEF:0 "the United Provinces of Indochina"
+ IND_neutrality_ADJ:0 "Indochinese"
+ IND_democratic:0 "Indochinan Republic"
+ IND_democratic_DEF:0 "the Indochinan Republic"
+ IND_democratic_ADJ:0 "Indochinese"
+ IND_fascism:0 "State of Indochina"
+ IND_fascism_DEF:0 "the State of Indochina"
+ IND_fascism_ADJ:0 "Indochinese"
+ IND_communism:0 "Socialist Republic of Vietnam"
+ IND_communism_DEF:0 "the Socialist Republic of Vietnam"
+ IND_communism_ADJ:0 "Vietnamese"
  

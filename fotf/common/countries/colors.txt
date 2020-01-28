@@ -496,3 +496,8 @@ RHE = {
 	color = rgb { 3 180 65 }
 	color_ui = rgb { 3 180 65 }
 }
+IND = {
+	color = rgb { 47 89 138 }
+	color_ui = rgb { 47 89 138 }
+}
+

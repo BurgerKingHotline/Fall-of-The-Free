@@ -109,6 +109,8 @@ if = {
 	set_naval_oob = "JAP_1936_naval_legacy"
 }
 
+puppet = IND
+
 create_import = {
 		resource = oil
 		factories = 2
