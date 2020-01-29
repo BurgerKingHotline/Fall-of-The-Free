@@ -1,4 +1,4 @@
-﻿capital = 286
+capital = 51
 
 oob = ""
 
@@ -22,10 +22,8 @@ set_politics = {
 }
 
 set_popularities = {
-	neutrality = 48
-	fascism = 50
-	democratic = 1
-	communism = 1
+	neutrality = 55
+	fascism = 45
 }
 
 set_stability = 0.50
@@ -33,7 +31,7 @@ set_stability = 0.50
 create_country_leader = {
 	name = "Josef Friedrich Matthes"
 	desc = ""
-	picture = "gfx/leaders/RHE/Portrait_Josef_Matthes.dds"
+	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_land_3.dds"
 	expire = "1965.1.1"
 	ideology = centrism
 	traits = {

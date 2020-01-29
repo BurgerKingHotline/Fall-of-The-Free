@@ -1,4 +1,4 @@
-﻿capital = 613 # Nanjing
+capital = 613 # Nanjing
 
 oob = "CHI_1936"
 if = {
@@ -200,6 +200,10 @@ set_convoys = 40
 		concentrated_industry3 = 1
 	}
 }
+declare_war_on = {
+		target = SIK
+		type = annex_everything
+	}
 
 set_politics = {
 	ruling_party = neutrality
