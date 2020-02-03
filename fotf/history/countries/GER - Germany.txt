@@ -120,6 +120,7 @@ set_popularities = {
 create_faction = Axis
 add_to_faction = GER
 add_to_faction = LIT
+give_guarantee = SLO
 
 
 add_ideas = {
